@@ -1,0 +1,40 @@
+.top-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+    width: fit-content;
+}
+
+.middle-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.right-panel{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-panel{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.data-table{
+    width: fit-content;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-left: 10px;
+    justify-content: center;
+    border-radius: 5px;
+}
