@@ -1,4 +1,4 @@
-# Parameter Climate
+# Parameter Climate Frontend
 
 This repository contains a React application that allows users to enter parameters such as strike price, specific quarter, starting year and max temperature trigger to calculate the payout of each year based on the inputs from the starting year till now. The application uses the following dependencies:
 
